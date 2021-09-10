@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.0" apprev="17213" id="node1">
+  <input height="5673" levelbiashidpi="1.000" width="5673" leveltilesize="510" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level height="5673" width="5673" predecode="0" preload="0"/>
+    <level height="2836" width="2836" predecode="0" preload="0"/>
+    <level height="1418" width="1418" predecode="0" preload="0"/>
+    <level height="709" width="709" predecode="0" preload="0"/>
+    <level height="354" width="354" predecode="1" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start tilt="0" projection="4" fov="70" pan="0"/>
+    <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+    <min tilt="-22.7633" pan="-180" fovpixel="2"/>
+    <max tilt="22.7633" fovstereographic="270" fov="120" fovfisheye="360" pan="180"/>
+  </view>
+  <userdata datetime="2021/9/4 17:11" source="" description="" author="" latitude="31.289262" customnodeid="" copyright="" longitude="114.464789" title="" info="" comment="" tags="【图片素材】"/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label height="20" background="1" bordercolor="0x000000" borderalpha="1" wordwrap="1" width="180" textcolor="0x000000" textalpha="1" border="1" enabled="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff"/>
+    <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" zoomout="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomoutpause="1" enabled="1" zoomfov="20" blendcolor="0x000000" zoomin="0"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control rubberband="0" speedwheel="1" hideabout="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" lockedwheel="0" sensitivity="8" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1"/>
+</panorama>
